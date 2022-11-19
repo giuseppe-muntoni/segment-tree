@@ -1,5 +1,5 @@
 [package]
-name = "segment-tree"
+name = "segment_tree"
 version = "0.1.0"
 edition = "2021"
 
